@@ -16,8 +16,8 @@ public static void main(String[] args) {
     {
 
 }
-    int [] idCliente = {7890731, 0601260, 33659596, 45388100, 53571505};
-    int [] balance = {9000, 2000000,5000, 1000000, 7000};
+    int [] idCliente = {78897896, 0603669, 33669985, 45399200, 5350005};
+    int [] balance = {10000, 1000000,11000, 2000000, 9000};
     
     String Armando     =  ("Nombre: " + nombres [0] + " ID del cliente: " + idCliente [0]+ " Saldo disponible: " + balance [0] );
     
